@@ -1,0 +1,32 @@
+h1 {
+  color: #1b6c92;
+  font-size: 45px;
+  margin: 10px;
+}
+
+.btn {
+  margin-top: 60px;
+}
+
+body {
+  background-color: #b23acd;
+}
+
+button {
+  margin-right: 15px;
+}
+
+.quotemac {
+  background-color: grey;
+  width: 50%;
+  margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 25px;
+  border-style: solid;
+  border-radius: 10px;
+}
+
+.quote {
+  font-size: 25px;
+}
